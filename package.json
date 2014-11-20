@@ -25,7 +25,7 @@
     "sinon": "~1.10.2"
   },
   "dependencies": {
-    "xml2js": "git+https://31bf0ed6156ed5b2594d619572fe0893b4853117:x-oauth-basic@github.com/jimmyburgess/xml2js.git",
+    "xml2js": "~0.4.4",
     "lodash": "~2.4.1",
     "request": "~2.36.0",
     "fuel-auth": "~0.5.0"
